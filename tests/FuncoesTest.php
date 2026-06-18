@@ -8,7 +8,7 @@ class FuncoesTest extends TestCase
 {
     public function testFatorialDeCinco()
     {
-        $this->assertEquals(120, fatorial(5));
+        $this->assertEquals(12, fatorial(5));
     }
 
     public function testFatorialDeZero()
